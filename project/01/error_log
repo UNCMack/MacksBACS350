@@ -1,0 +1,49 @@
+[06-Sep-2019 21:29:01 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:01 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:01 UTC] PHP Warning:  include(): Failed opening '../views.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home3/macksweb/public_html/bacs350/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/macksweb/public_html/bacs350/index.php on line 31
+[06-Sep-2019 21:29:49 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:49 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:49 UTC] PHP Warning:  include(): Failed opening '../views.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home3/macksweb/public_html/bacs350/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/macksweb/public_html/bacs350/index.php on line 31
+[06-Sep-2019 21:29:51 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:51 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:51 UTC] PHP Warning:  include(): Failed opening '../views.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home3/macksweb/public_html/bacs350/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/macksweb/public_html/bacs350/index.php on line 31
+[06-Sep-2019 21:30:01 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:30:01 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:30:01 UTC] PHP Warning:  include(): Failed opening '../views.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home3/macksweb/public_html/bacs350/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/macksweb/public_html/bacs350/index.php on line 31
+[06-Sep-2019 21:30:06 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:30:06 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:30:06 UTC] PHP Warning:  include(): Failed opening '../views.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/macksweb/public_html/bacs350/index.php on line 29
+[06-Sep-2019 21:30:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home3/macksweb/public_html/bacs350/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/macksweb/public_html/bacs350/index.php on line 31
+[10-Sep-2019 04:14:09 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[10-Sep-2019 04:14:09 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[10-Sep-2019 04:14:09 UTC] PHP Warning:  include(): Failed opening '../views.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/macksweb/public_html/bacs350/index.php on line 29
+[10-Sep-2019 04:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home3/macksweb/public_html/bacs350/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/macksweb/public_html/bacs350/index.php on line 31
+[10-Sep-2019 04:14:18 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[10-Sep-2019 04:14:18 UTC] PHP Warning:  include(../views.php): failed to open stream: No such file or directory in /home3/macksweb/public_html/bacs350/index.php on line 29
+[10-Sep-2019 04:14:18 UTC] PHP Warning:  include(): Failed opening '../views.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/macksweb/public_html/bacs350/index.php on line 29
+[10-Sep-2019 04:14:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home3/macksweb/public_html/bacs350/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/macksweb/public_html/bacs350/index.php on line 31

@@ -1,0 +1,45 @@
+body {
+    padding: 2em;
+    text-align: center
+}
+
+
+h1 {
+    color: #804AC2;
+    text-align: center
+}
+
+h2 {
+    color: #59EDC5;
+    text-align: center
+}
+
+hr {
+    border: 1px solid #59EDC5;
+    width: 50%;
+    margin: 30px auto;
+    text-align: center
+}
+
+img {
+    border-radius: 20px;
+}
+
+pre {
+    border: 1px solid #59EDC5;
+    box-shadow: 9px 9px 5px cyan;
+    padding: 1em;
+    margin: 2em;
+}
+
+.card {
+    margin: 20px;
+    border: 1px solid #804AC2;
+}
+
+.card-header {
+    padding: 10px;
+    font-weight: bold;
+    color: mistyrose;
+    background-color: #804AC2;
+}
